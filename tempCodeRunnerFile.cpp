@@ -1,0 +1,1 @@
+   checkArmstrongNos(370);
